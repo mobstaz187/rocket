@@ -53,7 +53,14 @@ secret = [
 
 projects = [
   "<br>",
+  "AI Projects Initiated....",
+  "<br>",
+  "Rocket: You know I am a Smart-ass.",
+  "Pump.Fun Volume Sniper....         Status: Underdeployment",
+  "Dex Token Checker....              Status: Underdeployment",
+  "Pump.Fun Validity Checker....      Status: Underdeployment",
   "Still curating... most projects are offline or confidential.",
+  '<h1 class="index">Announcement at 2PM GMT.... Please Stand By.</h1>',
   "<br>"
 ];
 
@@ -109,20 +116,16 @@ journal = [
 ];
 
 help = [
-  '<h1 class="command2">logs (./script.sh)</h1>',
-  '<div class="command1"> privateuser_edwardlog.sh </div></br>',
-  '<div class="command1"> edwardlog_secret.sh </div></br>',
-  '<div class="command1"> edward_selfawareness.sh </div></br>',
   "<br>",
-  '<span class="command">encryption</span>     Show encrypted message',
-  '<span class="command">raccoon</span>        Who is Edward',
-  '<span class="command">social</span>         Display social networks',
+  '<span class="command">raccoon</span>        Who is $ROCKET',
   '<span class="command">history</span>        View command history',
-  '<span class="command">CA</span>             Contract Address',
+  '<span class="command">showca</span>         Contract Address',
   '<span class="command">clear</span>          Clear terminal',
   '<span class="command">home</span>           Display the Homescreen',
   '<span class="command">help</span>           Show available Commands',
-  '<span class="command">logs</span>           View Edward Logs',
+  '<span class="command">logs</span>           View System Logs',
+  '<span class="command">social</span>         Display socials',
+  '<span class="command">projects</span>       Show Project Roadmap',
   "<br>",
 ];
 

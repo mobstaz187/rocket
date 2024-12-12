@@ -98,7 +98,7 @@ function commander(cmd) {
     case "logs":
       loopLines(logs, "color2 margin", 80);
       break;
-    case "ca":
+    case "showca":
     loopLines(ca, "color2 margin", 80);
     break;
     case "ribbit":
