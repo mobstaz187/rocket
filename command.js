@@ -23,12 +23,12 @@ aboutme = [
 
 dex = [
   "<br>",
-  'Initial Contact: Dex        <a href="' + dex + '" target="_blank">Updating...' + '</a>',
+  'Initial Contact: Dex        <a href="' + dex + '" target="_blank">2ti1ykRLHW4kStUTQjJRC889tLaaia1AHJAi6BBcpump' + '</a>',
   "<br>"
 ];
 ca = [
     "<br>",
-    '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">Updating....</a>',
+    '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">2ti1ykRLHW4kStUTQjJRC889tLaaia1AHJAi6BBcpump.</a>',
     "<br>"
   ];
 ribbit = [
@@ -36,7 +36,7 @@ ribbit = [
   "$EDWARD",
   '𝕏        <a href="' + twitter + '" target="_blank">twitter/raccoonsequence' + '</a>',
   "contract address (Click to Copy): ticker $EDWARD",
-  '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">Updating....</a>',
+  '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">2ti1ykRLHW4kStUTQjJRC889tLaaia1AHJAi6BBcpump.</a>',
   "<br>"
 ];
 social = [
@@ -173,7 +173,7 @@ banner = [
 '<h1 class="command2">Welcome</h1>',
 '<h1><a href="./AI.html" target="_blank">Click here to talk to $ROCKET' + '</a></h1>',
 '<span class="color2">CA (CLICK TO COPY):</span>',
-'<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">Updating....</a>',
+'<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">2ti1ykRLHW4kStUTQjJRC889tLaaia1AHJAi6BBcpump.</a>',
 '<span class="color2">Enter your command below.</span>',
   "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];
