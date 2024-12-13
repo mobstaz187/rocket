@@ -172,6 +172,8 @@ banner = [
 '<br>',
 '<h1 class="command2">Welcome</h1>',
 '<h1><a href="./AI.html" target="_blank">Click here to talk to $ROCKET' + '</a></h1>',
+'<span class="color2">CA (CLICK TO COPY):</span>',
+'<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">Updating....</a>',
 '<span class="color2">Enter your command below.</span>',
   "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];
