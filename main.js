@@ -57,7 +57,7 @@ function enterKey(e) {
     if (e.keyCode == 13) {
       commands.push(command.innerHTML);
       git = commands.length;
-      addLine("rocket@term:~$ " + command.innerHTML, "no-animation", 0);
+      addLine("rocket@raccoon:~$ " + command.innerHTML, "no-animation", 0);
       commander(command.innerHTML.toLowerCase());
       command.innerHTML = "";
       textarea.value = "";
@@ -103,6 +103,9 @@ function commander(cmd) {
     break;
     case "ribbit":
     loopLines(ribbit, "color2 margin", 80);
+    break;
+    case "rocketai":
+    loopLines(rocketai, "color2 margin", 80);
     break;
     case "encryption":
       loopLines(transmission, "color2 margin", 80);

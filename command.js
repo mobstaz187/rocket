@@ -1,5 +1,5 @@
-var youtube = "https://www.youtube.com/watch?v=cpraXaw7dyc";
-var twitter = "https://x.com/_edwardprotocol";
+var youtube = "https://www.youtube.com/watch?v=oA73XfJJ7AU";
+var twitter = "https://x.com/raccoonsequence";
 var contractaddress = "placeholder_for_updating";
 var password = "ribbit";
 var dex = "Transmitting TXN"
@@ -34,14 +34,20 @@ ca = [
 ribbit = [
   "<br>",
   "$EDWARD",
-  '𝕏        <a href="' + twitter + '" target="_blank">twitter/_edwardprotocol' + '</a>',
+  '𝕏        <a href="' + twitter + '" target="_blank">twitter/raccoonsequence' + '</a>',
   "contract address (Click to Copy): ticker $EDWARD",
   '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">Updating....</a>',
   "<br>"
 ];
 social = [
   "<br>",
-  '𝕏        <a href="' + twitter + '" target="_blank">https://x.com/_edwardprotocol' + '</a>',
+  '𝕏        <a href="' + twitter + '" target="_blank">https://x.com/raccoonsequence' + '</a>',
+  "<br>"
+];
+
+rocketai = [
+  "<br>",
+  '<a href="./AI.html">Click Here to TALK TO ME' + '</a>',
   "<br>"
 ];
 
@@ -126,6 +132,7 @@ help = [
   '<span class="command">logs</span>           View System Logs',
   '<span class="command">social</span>         Display socials',
   '<span class="command">projects</span>       Show Project Roadmap',
+  '<span class="command">rocketai</span>       Talk to ROCKET',
   "<br>",
 ];
 

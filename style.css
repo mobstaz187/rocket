@@ -61,7 +61,7 @@ body {
   }
   #liner::before {
     color: #0f0f0f;
-    content: "rocket@term:~$";
+    content: "rocket@raccoon:~$";
   }
   #liner.password::before {
     content: "Password:";
@@ -174,4 +174,15 @@ iframe { width:100%; border:0 }
     background-color: #ffffff;
     color: #ffffff;
   }
+
+  #divElement{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 100px;
+    height: 100px;
+    background-color: #ffffff;
+}
 
